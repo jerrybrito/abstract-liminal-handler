@@ -1,0 +1,2 @@
+# Requires: virtual-unlikelihood
+# (Not available on PyPI)
